@@ -1,0 +1,12 @@
+Aceleracion
+1
+Teletransporte
+4
+Esperarsegundos
+6
+Relentizar
+2
+Cambiarobjetivo
+5
+Aleatorio
+3
